@@ -1,0 +1,14 @@
+{
+  "1": {
+    "assetId": 1,
+    "taskType": "Hard Drive Replacement",
+    "taskDescription": "The hard drive on this asset is failing.",
+    "dueDate": "Jun 28, 2023, 2:45:23 AM"
+  },
+  "2": {
+    "assetId": 2,
+    "taskType": "Memory Upgrade",
+    "taskDescription": "The memory on this asset is not enough to run the latest software.",
+    "dueDate": "Jun 28, 2023, 2:45:23 AM"
+  }
+}
